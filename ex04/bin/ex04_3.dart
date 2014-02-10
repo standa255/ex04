@@ -23,7 +23,7 @@ void main(){
   var f = duration.inDays - (23 * 365.25) - g;
   var e = (h - f) / 30;
   
-  print ('The time passed between my birthday $dateofbirth and today $today is: ${c.toStringAsFixed(0)} years, ${e.toStringAsFixed(0)} months and ${f.toStringAsFixed(0)} days');
+  print ('The time passed between my birthday $dateofbirth and today $today is: ${c.toStringAsFixed(0)} years, ${e.toStringAsFixed(0)} months and ${f.toStringAsFixed(0)} days.');
   print ('The time in hours passed between my birthday noon and today noon: $b');
   print ('The time in days passed between my birthday noon and today noon: $a');
   print ('The time in months passed between my birthday noon and today noon: ${d.toStringAsFixed(1)}');
