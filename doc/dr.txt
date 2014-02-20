@@ -1,0 +1,15 @@
+ex04
+18/20
+
+(-2) il n'y a pas de fichier .gitignore
+
+pubspec.yaml
+intl ?
+
+ex04_1
+dr: la prochaine fois, d'autres changements s'il vous plaît
+
+ex04_3
+The time in years passed between my birthday noon and today noon: 23.4
+dr: in years, months and days ?
+
